@@ -1,7 +1,7 @@
 {
   "name": "redux-todo",
   "version": "0.1.0",
-  "homepage":"https://vivinzkarloe20.github.io/redux-todo",
+  "homepage":"https://vinzmendoza.github.io/redux-todo",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
